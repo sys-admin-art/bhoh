@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 오픈소스 가이드
+title: 개발 가이드
 nav_order: 1
 description: ""
 permalink: /
@@ -166,7 +166,7 @@ permalink: /
 
 
 ## Contact
-본 가이드에 대해 궁금한 사항은 [opensource@kakaocorp.com](mailto:opensource@kakaocorp.com) 으로 문의 바랍니다.
+본 웹 사이트에 대해 궁금한 사항은 [dev.lover7771@gmail.com](mailto:dev.lover7771@gmail.com) 으로 문의 바랍니다.
 
 ## References
 이 문서는 아래의 자료를 참고하여 작성하였습니다.
