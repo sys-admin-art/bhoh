@@ -16,7 +16,7 @@
 
 title: kakao
 description: OpenSource for documentation
-baseurl: "/bhoh" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sys-admin-art.github.io/bhoh" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
