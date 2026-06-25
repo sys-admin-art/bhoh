@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 개발 가이드
+title: IT인프라 운영 및 개발 가이드
 nav_order: 1
 description: ""
 permalink: /
@@ -64,12 +64,12 @@ IT인프라 운영 지식 및 부동산 관련 웹 사이트 개발이라는 거
         </clipPath>
         </defs>
         </svg>
-           <a href="{{ site.baseurl }}/docs/license/" class="link">오픈소스 라이선스</a>
+           <a href="{{ site.baseurl }}/docs/license/" class="link">부동산 관련 웹 사이트 개발</a>
     </div>
         <div class="contents_body">
         <ul>
-            <li>오픈소스를 이용하기 위해 준수해야 하는 라이선스의 의무사항에 대해 알아봅니다.</li>
-            <li>라이선스들이 가지고 있는 의무사항을 준수하는 방법에 대해 알아봅니다.</li>
+            <li>부동산 관련 웹사이트에 적용하는 기능별 요소들에 대해 알아봅니다.</li>
+            <li>관련 오픈소스에 참여하거나 내가 만든 코드를 오픈소스로 공개하여 다른 이들에게 기여할 수 있습니다.</li>
         </ul>
     </div>
     </div>
