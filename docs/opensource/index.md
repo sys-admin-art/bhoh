@@ -71,3 +71,6 @@ Prometheus
 Grafana
 
 </div>
+
+[virtualbox에 Ubuntu 설치하는 방법](https://www.reddit.com/r/Ubuntu/comments/1nsog2z/learn_how_to_install_ubuntu_in_virtualbox/?tl=ko)
+
