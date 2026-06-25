@@ -7,13 +7,13 @@ permalink: /
 ---
 # {{ page.title }}
 <div class="summary mt-10">
-카카오는 <strong>'개발자들이 오픈소스를 잘 활용하고 기여할 수 있도록 지원'</strong>하기 위해 오픈소스 가이드를 제공하고 있습니다.<br>
+이 웹사이트는 <strong>'IT인프라 운영 지식 습득과 부동산 관련 웹사이트 개발을 잘할 수 있도록 지원'</strong>하기 위해 운영, 개발 일지 및 개발 가이드를 제공하고 있습니다.<br>
 </div>
 
 <img src="https://t1.kakaocdn.net/olive/ossguide/intro_main.png" alt="" class="mt-1"/>
 
-오픈소스라는 거인의 어깨 위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다.<br> 
-이 오픈소스 가이드가 개발자들이 오픈소스의 가치를 이해하고 올바르게 사용하는데 도움이 되기를 바랍니다.
+IT인프라 운영 지식 및 부동산 관련 웹 사이트 개발이라는 거인의 어깨 위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다.<br> 
+이 웹사이트가 IT인프라 엔지니어 및 개발자들이 관련 지식과 오픈소스의 가치를 이해하고 올바르게 사용하는데 도움이 되기를 바랍니다.
 
 
 ## 목차
@@ -37,12 +37,12 @@ permalink: /
             </clipPath>
             </defs>
             </svg>
-            <a href="{{ site.baseurl }}/docs/opensource/" class="link">오픈소스</a>
+            <a href="{{ site.baseurl }}/docs/opensource/" class="link">IT인프라 운영 지식 습득 및 학습</a>
         </div>
         <div class="contents_body">
             <ul>
-                <li>오픈소스 정의와 오픈소스를 보호하는 지적재산권 및 라이선스 등에 대해 알아봅니다.</li>
-                <li>다양한 오픈소스 분쟁사례와 인공지능(AI) 관련 오픈소스 이슈를 소개합니다.</li>
+                <li>서버, 네트워크 등 필수적인 IT인프라 운영 지식을 익히는 등에 관련 학습에 대해 알아봅니다.</li>
+                <li>다양한 IT인프라 운영 사례와 IT인프라(서버, 네트워크 등) 관련 오픈소스 이슈를 소개합니다.</li>
             </ul>
         </div>
     </div>
