@@ -20,7 +20,7 @@ IT인프라 운영 지식 및 부동산 관련 웹 사이트 개발이라는 거
 <div class="content_wrap">
     <div class="contents_block">
         <div class="contents_tt">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg width="0" height="0" viewBox="0 0 0 0" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g clip-path="url(#clip0_19_131)">
             <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
             <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
