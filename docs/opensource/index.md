@@ -8,6 +8,7 @@ has_children: true
 <div class="summary">
 IT인프라의 정의와 IT인프라 운영에 필요한 지식 등에 대해 알아봅니다. <br>
 또한, 다양한 IT인프라 운영 관련 강의를 소개합니다. <br>
+</div>
 
 <br>
 
@@ -74,8 +75,6 @@ IT인프라의 정의와 IT인프라 운영에 필요한 지식 등에 대해 �
 - Prometheus <br>
 - Grafana <br>
 
-</div>
 
 - [virtualbox에 Ubuntu 설치하는 방법](https://www.reddit.com/r/Ubuntu/comments/1nsog2z/learn_how_to_install_ubuntu_in_virtualbox/?tl=ko)
--
 
